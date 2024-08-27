@@ -1,0 +1,6 @@
+node_modules
+.env
+.env.production
+nodemon.json
+script.sh
+node-travelbook.pem
