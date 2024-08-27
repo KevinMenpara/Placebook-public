@@ -1,0 +1,7 @@
+node_modules
+.env
+.env.production
+nodemon.json
+script.sh
+PAT.txt
+.pem
